@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🤖 ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,25:2d2d2d,50:3d3d3d,75:555555,100:717171&height=220&section=header&text=🤖%20Data%20Analytics%20%26%20ML&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=End-to-End%20Data%20Science%20%7C%20Internship%20%26%20Self-Learning%20Projects&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,25:2d2d2d,50:3d3d3d,75:555555,100:717171&height=220&section=header&text=%F0%9F%93%8A%20Machine%20Learning&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20Business%20Intelligence&descAlignY=58&descSize=16&animation=fadeIn" alt="header" />
 
 <br/>
 
