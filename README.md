@@ -6,7 +6,7 @@
 <br/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=aaaaaa&center=true&vCenter=true&width=750&lines=🔬+Data+Cleaning+%7C+EDA+%7C+Feature+Engineering;🤖+Model+Training+%7C+Evaluation+%7C+Tuning;📊+Visualization+%7C+Insights+%7C+Storytelling;🧪+Built+During+Syntech+Data+Science+Internship;💡+Raw+Data+→+Trained+Model+→+Real+Insights!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=aaaaaa&center=true&vCenter=true&width=750&lines=🔬+Data+Cleaning+%7C+EDA+%7C+Feature+Engineering;🤖+Model+Training+%7C+Evaluation+%7C+Tuning;📊+Visualization+%7C+Insights+%7C+Storytelling;💡+Raw+Data+→+Trained+Model+→+Real+Insights!)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,10 +22,8 @@
 <br/>
 
 ![Status](https://img.shields.io/badge/Status-Actively%20Growing-6BCB77?style=flat-square)
-![Internship](https://img.shields.io/badge/Built%20During-Syntech%20Internship-717171?style=flat-square)
 ![Type](https://img.shields.io/badge/Type-Hands--On%20ML%20Projects-555555?style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zameer%20Shaikh-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zameer-shaikh-1a9482345)
-
 </div>
 
 ---
